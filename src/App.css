@@ -1,0 +1,23 @@
+
+.App {
+  text-align: center;
+}
+h1 {
+  background-color: rgb(127, 246, 255);
+  color: #fff;
+  margin: 0 0 40px 0;
+  padding: 30px 0;
+}
+input {
+  padding: 10px;
+  outline: none;
+  border-radius: 2px;
+  width: 300px;
+}
+.container {
+  margin: 60px auto 0 auto;
+  max-width: 1200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

@@ -1,0 +1,14 @@
+.one-card {
+    width: 250px;
+    height: 175px;
+    border: solid 2px rgb(127, 246, 255);
+    border-radius: 8px;
+    background-color: rgb(127, 246, 255);
+    margin-bottom: 40px;
+}
+.email {
+    word-wrap: break-word;
+}
+hr {
+    border-width: 2px 0 0 0;
+}
